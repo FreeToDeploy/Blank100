@@ -1,3 +1,4 @@
+yaml
 name: Publish image to Docker Hub
 on:
   [workflow_dispatch]
